@@ -1,0 +1,16 @@
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\bin\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.exe
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\bin\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.deps.json
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\bin\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.runtimeconfig.json
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\bin\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.runtimeconfig.dev.json
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\bin\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.dll
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\bin\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.pdb
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.csproj.AssemblyReference.cache
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD_B211210306_1_A_ERAY_POLAT.Form1.resources
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.csproj.GenerateResource.cache
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.AssemblyInfoInputs.cache
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.AssemblyInfo.cs
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.csproj.CoreCompileInputs.cache
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.dll
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.pdb
+C:\Users\polat\source\repos\NPD B211210306 1-A ERAY POLAT\NPD B211210306 1-A ERAY POLAT\obj\Debug\netcoreapp3.1\NPD B211210306 1-A ERAY POLAT.genruntimeconfig.cache
